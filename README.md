@@ -1,3 +1,3 @@
 # 2d_platformer
-It is a 2d platformer game called  "Steves platformer"
+It is a 2D platformer game called  "Steve's Platformer."
 This was made using unity.
