@@ -34,7 +34,7 @@ Steve's Platformer has been developed with a keen emphasis on delivering a polis
 
 To play Steve's Platformer, follow these steps:
 
-1. **Download the Game:** Click [here](link/to/your/game/zip) to download the game as a ZIP file.
+1. **Download the Game:** Download the game as a ZIP file.
 
 2. **Extract the ZIP:** After downloading, extract the contents of the ZIP file to a location of your choice.
 
